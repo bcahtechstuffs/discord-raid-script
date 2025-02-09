@@ -102,7 +102,7 @@ print(colors.reset)
 print("Version 1.01")
 print("WARNING: Run at your own risk! Dev of this tools will NOT be held responsible for any damages!")
 print("Please enter your bot token")
-devtoken = "MTI1NjUzNjY2Mjg5MzEzMzkzOA.GxPKWH.JIbcRXWdnImbwmMCmX4KhF58BP5S7vA89zP0lM"   
+
 try:
     token = str(input("Token: "))
     bot.run(token)
